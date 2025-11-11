@@ -1,8 +1,11 @@
 # Install Tailwind CSS via yarn [here](https://tailwindcss.com/docs/installation/using-vite)
 
 # What is Typescript?
-
 TypeScript is a superset of JavaScript that adds static typing, helping catch errors at compile time.
+
+# Components and props
+
+Components are reusable UI elements in React. Props are inputs to components.
 
 # React Router [here](https://reactrouter.com/start/declarative/installation)
 React Router is a standard library for routing in React applications. It enables navigation between different components or pages without reloading the entire page, creating a single-page application (SPA) experience.
